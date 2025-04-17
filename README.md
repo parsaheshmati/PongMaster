@@ -17,8 +17,8 @@ This is a simple and fun Pong game built with Python and Pygame. It allows users
 ### Requirements:
 - Python 3.x
 - Pygame library
-<img align="left" alt=" " width="100" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 ### Steps:
+<img align="left" alt=" " width="100" src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 1. Clone this repository:
    ```bash
    git clone https://github.com/parsaheshmati/pong-game.git
