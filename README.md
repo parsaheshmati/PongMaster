@@ -1,2 +1,21 @@
-# PongMaster
-PongMaster is a modern remake of the classic Pong game. It features smooth multiplayer gameplay, AI challenges, and interactive menus. With retro graphics, engaging sound effects, and intuitive controls, PongMaster offers an immersive gaming experience built using Python and Pygame.
+# Pong Game
+
+## Introduction
+This is a simple and fun Pong game built with Python and Pygame. It allows users to play against a robot (AI) or another player, complete with sound effects, a smooth UI, and customizable gameplay.
+
+## Features
+- Play against AI or another player.
+- Beautiful UI with a blue background and vibrant paddles and ball.
+- Smooth animations and sound effects.
+- Responsive controls using both keyboard and mouse.
+
+## Installation
+
+### Requirements:
+- Python 3.x
+- Pygame library
+
+### Steps:
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/pong-game.git
