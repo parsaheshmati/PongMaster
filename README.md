@@ -6,7 +6,7 @@
 ## Introduction
 This is a simple and fun Pong game built with Python and Pygame. It allows users to play against a robot (AI) or another player, complete with sound effects, a smooth UI, and customizable gameplay.
 
-## Features
+## Features <img align="left" alt=" " width="100" src="https://sweezy-cursors.com/wp-content/uploads/cursor/ping-pong-animated/ping-pong-animated-custom-cursor.gif">
 - Play against AI or another player.
 - Beautiful UI with a blue background and vibrant paddles and ball.
 - Smooth animations and sound effects.
