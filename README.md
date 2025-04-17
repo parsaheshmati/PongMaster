@@ -18,4 +18,4 @@ This is a simple and fun Pong game built with Python and Pygame. It allows users
 ### Steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/pong-game.git
+   git clone https://github.com/parsaheshmati/pong-game.git
