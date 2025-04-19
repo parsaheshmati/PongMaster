@@ -12,6 +12,8 @@ This is a simple and fun Pong game built with Python and Pygame. It allows users
 - Smooth animations and sound effects.
 - Responsive controls using both keyboard and mouse.
 
+<img align="center" alt=" " width="900" src="pictures/pic4.png">
+
 ## Installation
 
 ### Requirements:
